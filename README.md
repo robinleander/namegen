@@ -1,6 +1,6 @@
 # NameGen
 
-Generate cute names in a breeze
+Generate cute usernames in a breeze
 
 # Usage
 
