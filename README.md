@@ -1,4 +1,4 @@
-# Namegen
+# NameGen
 
 Generate cute names in a breeze
 
