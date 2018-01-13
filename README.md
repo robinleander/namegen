@@ -6,6 +6,13 @@ Generate cute usernames in a breeze
 
 ```
 $ ./main.py --help
+usage: main.py [-h] count
+
+positional arguments:
+  count       number of names to generate
+
+optional arguments:
+  -h, --help  show this help message and exit
 $ ./main.py 30
 ExtremeNaranjilla
 StartlingOroblanco
